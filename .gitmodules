@@ -4,3 +4,6 @@
 [submodule "SM-13-4"]
 	path = SM-13-4
 	url = git@github.com:kubkil/SM-13-4.git
+[submodule "SM-13-5"]
+	path = SM-13-5
+	url = git@github.com:kubkil/SM-13-5.git
