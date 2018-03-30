@@ -1,0 +1,6 @@
+[submodule "SM-13-3"]
+	path = SM-13-3
+	url = git@github.com:kubkil/SM-13-3.git
+[submodule "SM-13-4"]
+	path = SM-13-4
+	url = git@github.com:kubkil/SM-13-4.git
